@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+fisrt repository
 
 ## What it does
 
-FEATURES PLACEHOLDER
+for learning
 
 ## Getting started
 
